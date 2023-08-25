@@ -1,3 +1,3 @@
-module github.com/tushardwivedi/gomodeg/v1
+module github.com/tushardwivedi/gomodeg
 
 go 1.20
