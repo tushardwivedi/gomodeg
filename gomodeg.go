@@ -1,13 +1,9 @@
 package gomodeg
 
-import (
-	"fmt"
-)
-
 func Bark() {
-	fmt.Println("Woof!")
+	return "Woof!"
 }
 
 func Meow() {
-	fmt.Println("Meow!")
+	return "Meow!"
 }
