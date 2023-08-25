@@ -1,9 +1,9 @@
 package gomodeg
 
-func Bark() {
+func Bark() string {
 	return "Woof!"
 }
 
-func Meow() {
+func Meow() string {
 	return "Meow!"
 }
