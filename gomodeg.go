@@ -4,6 +4,6 @@ func Bark() string {
 	return "Woof!"
 }
 
-func Meow() string {
-	return "Meow!"
+func Barks() string {
+	return "Woof! Woof! Woof!"
 }
